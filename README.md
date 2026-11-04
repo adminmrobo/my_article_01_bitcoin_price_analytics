@@ -6,7 +6,7 @@
 
 # 암호화폐 자산의 정보 효율성에 대한 연구 — 해설 대시보드
 
-코인 값이 며칠 전에 움직인 방향이 오늘 코스피의 움직임을 미리 알려 줄 수 있을까? 안상선(2021)의 논문 「암호화폐 자산의 정보 효율성에 대한 연구 — 주식시장에서의 선행지표로서의 정보 효율성을 중심으로」(『미래사회』 12권 4호, 51–73쪽)를 박사·하루(조수)·초파리 연구원·Money-Robo 네 캐릭터가 진행하는 인터랙티브 해설 페이지로 만들었습니다. 장부를 맞대고(같은 날 상관), 밀고(시차 상관), 나누고(코로나19 전후), 합쳐 보면서(섞은 지표 K1) 논문의 네 가지 연구 질문을 직접 따라갈 수 있습니다.
+코인 값이 며칠 전에 움직인 방향이 오늘 코스피의 움직임을 미리 알려 줄 수 있을까? 안상선(2021)의 논문 「암호화폐 자산의 정보 효율성에 대한 연구 — 주식시장에서의 선행지표로서의 정보 효율성을 중심으로」(『미래사회』 12권 4호, 51–73쪽)를 박사·하루(조수)·초파리 연구원·주판봇 네 캐릭터가 진행하는 인터랙티브 해설 페이지로 만들었습니다. 장부를 맞대고(같은 날 상관), 밀고(시차 상관), 나누고(코로나19 전후), 합쳐 보면서(섞은 지표 K1) 논문의 네 가지 연구 질문을 직접 따라갈 수 있습니다.
 
 - **바로 보기:** https://adminmrobo.github.io/my_article_01_bitcoin_price_analytics/crypto_info_efficiency.html
 - **원문 논문 (KCI):** https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002795323
@@ -115,7 +115,7 @@ README.md
 
 # A Study on Information Efficiency of Cryptocurrency Assets — Explainer Dashboard
 
-Can the direction coin prices moved a few days ago tell us in advance how KOSPI moves today? This interactive explainer page turns the paper by Ahn Sangsun (2021), "A Study on Information Efficiency of Cryptocurrency Assets – Focusing on Information Efficiency as a Leading Indicator in the Stock Market" (*Journal of the Future of Society* 12(4), pp. 51–73), into a page hosted by four characters: the Doctor, Haru (Assistant), the Fruit Fly Researcher and Money-Robo. By lining up ledgers (same-day correlation), shifting them (lagged correlation), splitting them (before/after COVID-19) and binding them (blended index K1), you can follow the paper's four research questions yourself.
+Can the direction coin prices moved a few days ago tell us in advance how KOSPI moves today? This interactive explainer page turns the paper by Ahn Sangsun (2021), "A Study on Information Efficiency of Cryptocurrency Assets – Focusing on Information Efficiency as a Leading Indicator in the Stock Market" (*Journal of the Future of Society* 12(4), pp. 51–73), into a page hosted by four characters: the Doctor, Haru (Assistant), the Fruit Fly Researcher and AbaBot. By lining up ledgers (same-day correlation), shifting them (lagged correlation), splitting them (before/after COVID-19) and binding them (blended index K1), you can follow the paper's four research questions yourself.
 
 - **View it:** https://adminmrobo.github.io/my_article_01_bitcoin_price_analytics/crypto_info_efficiency.en.html
 - **Original paper (KCI):** https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002795323
@@ -224,7 +224,7 @@ No license has been chosen yet (to be filled in). Copyright in the original pape
 
 # 加密货币资产的信息效率研究 — 解说仪表板
 
-几天前币价变动的方向，能否提前告诉我们今天 KOSPI 的走势？本页把 Ahn Sangsun（2021）的论文《加密货币资产的信息效率研究——以作为股市先行指标的信息效率为中心》（《未来社会》(Journal of the Future of Society) 第12卷第4期，第51–73页）做成了由博士、Haru（助手）、果蝇研究员和 Money-Robo 四个角色主持的互动解说页面。通过账本对齐（同一天的相关）、推移账本（滞后相关）、分册（新冠疫情前后）、合订（混合指标 K1），你可以亲手跟随论文的四个研究问题。
+几天前币价变动的方向，能否提前告诉我们今天 KOSPI 的走势？本页把 Ahn Sangsun（2021）的论文《加密货币资产的信息效率研究——以作为股市先行指标的信息效率为中心》（《未来社会》(Journal of the Future of Society) 第12卷第4期，第51–73页）做成了由博士、Haru（助手）、果蝇研究员和算盘宝四个角色主持的互动解说页面。通过账本对齐（同一天的相关）、推移账本（滞后相关）、分册（新冠疫情前后）、合订（混合指标 K1），你可以亲手跟随论文的四个研究问题。
 
 - **直接查看：** https://adminmrobo.github.io/my_article_01_bitcoin_price_analytics/crypto_info_efficiency.zh.html
 - **原文论文 (KCI)：** https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002795323
@@ -333,7 +333,7 @@ README.md
 
 # 暗号資産の情報効率性に関する研究 — 解説ダッシュボード
 
-コインの値が数日前に動いた方向は、今日のKOSPIの動きを前もって教えてくれるのだろうか？ アン・サンソン（2021）の論文「暗号資産の情報効率性に関する研究――株式市場における先行指標としての情報効率性を中心に」（『未来社会』(Journal of the Future of Society) 12巻4号、51–73頁）を、博士・ハル（助手）・ショウジョウバエ研究員・Money-Roboの4人のキャラクターが案内するインタラクティブ解説ページにした。帳簿を並べ（同じ日の相関）、ずらし（ラグ相関）、分け（コロナ19以前・以後）、綴じ合わせながら（混合指標K1）、論文の4つの研究課題を自分でたどることができる。
+コインの値が数日前に動いた方向は、今日のKOSPIの動きを前もって教えてくれるのだろうか？ アン・サンソン（2021）の論文「暗号資産の情報効率性に関する研究――株式市場における先行指標としての情報効率性を中心に」（『未来社会』(Journal of the Future of Society) 12巻4号、51–73頁）を、博士・ハル（助手）・ショウジョウバエ研究員・アバボットの4人のキャラクターが案内するインタラクティブ解説ページにした。帳簿を並べ（同じ日の相関）、ずらし（ラグ相関）、分け（コロナ19以前・以後）、綴じ合わせながら（混合指標K1）、論文の4つの研究課題を自分でたどることができる。
 
 - **すぐに見る：** https://adminmrobo.github.io/my_article_01_bitcoin_price_analytics/crypto_info_efficiency.ja.html
 - **原論文 (KCI)：** https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002795323
@@ -442,7 +442,7 @@ README.md
 
 # Kriptovalyuta aktivlarining axborot samaradorligi tadqiqoti — izohli dashbord
 
-Tanga narxi bir necha kun oldin qaysi tomonga harakatlangani bugungi KOSPI harakatini oldindan aytib bera oladimi? Ahn Sangsun (2021) maqolasi “Kriptovalyuta aktivlarining axborot samaradorligi tadqiqoti – fond bozorida yetakchi indikator sifatidagi axborot samaradorligi misolida” (Journal of the Future of Society, 12-jild, 4-son, 51–73-betlar) asosida Doktor, Haru (Yordamchi), Drozofila tadqiqotchisi va Money-Robo — toʻrt qahramon olib boradigan interaktiv izoh sahifasi tayyorlandi. Daftarlarni yonma-yon qoʻyib (bir kunlik korrelyatsiya), surib (kechikishli korrelyatsiya), boʻlib (COVID-19 dan oldin va keyin) va jamlab (aralash indikator K1), maqolaning toʻrtta tadqiqot savolini oʻzingiz kuzatib borishingiz mumkin.
+Tanga narxi bir necha kun oldin qaysi tomonga harakatlangani bugungi KOSPI harakatini oldindan aytib bera oladimi? Ahn Sangsun (2021) maqolasi “Kriptovalyuta aktivlarining axborot samaradorligi tadqiqoti – fond bozorida yetakchi indikator sifatidagi axborot samaradorligi misolida” (Journal of the Future of Society, 12-jild, 4-son, 51–73-betlar) asosida Doktor, Haru (Yordamchi), Drozofila tadqiqotchisi va AbaBot — toʻrt qahramon olib boradigan interaktiv izoh sahifasi tayyorlandi. Daftarlarni yonma-yon qoʻyib (bir kunlik korrelyatsiya), surib (kechikishli korrelyatsiya), boʻlib (COVID-19 dan oldin va keyin) va jamlab (aralash indikator K1), maqolaning toʻrtta tadqiqot savolini oʻzingiz kuzatib borishingiz mumkin.
 
 - **Koʻrish:** https://adminmrobo.github.io/my_article_01_bitcoin_price_analytics/crypto_info_efficiency.uz.html
 - **Asl maqola (KCI):** https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002795323
@@ -551,7 +551,7 @@ Litsenziya hali belgilanmagan (toʻldirilishi kerak). Asl maqolaning mualliflik 
 
 # Исследование информационной эффективности криптовалютных активов — интерактивный разбор
 
-Может ли направление, в котором несколько дней назад двигалась цена монеты, заранее подсказать сегодняшнее движение KOSPI? Статья Ан Сансон (2021) «Исследование информационной эффективности криптовалютных активов: информационная эффективность как опережающий индикатор фондового рынка» («Журнал будущего общества» (Journal of the Future of Society), т. 12, № 4, с. 51–73) превращена в интерактивный разбор, который ведут четыре персонажа: Доктор, Хару (ассистент), Исследователь-дрозофила и Money-Robo. Сопоставляя книги (корреляция в тот же день), сдвигая их (лаговая корреляция), разделяя (до и после COVID-19) и сшивая (смешанный индекс K1), вы сами пройдёте по четырём исследовательским вопросам статьи.
+Может ли направление, в котором несколько дней назад двигалась цена монеты, заранее подсказать сегодняшнее движение KOSPI? Статья Ан Сансон (2021) «Исследование информационной эффективности криптовалютных активов: информационная эффективность как опережающий индикатор фондового рынка» («Журнал будущего общества» (Journal of the Future of Society), т. 12, № 4, с. 51–73) превращена в интерактивный разбор, который ведут четыре персонажа: Доктор, Хару (ассистент), Исследователь-дрозофила и АбаБот. Сопоставляя книги (корреляция в тот же день), сдвигая их (лаговая корреляция), разделяя (до и после COVID-19) и сшивая (смешанный индекс K1), вы сами пройдёте по четырём исследовательским вопросам статьи.
 
 - **Открыть страницу:** https://adminmrobo.github.io/my_article_01_bitcoin_price_analytics/crypto_info_efficiency.ru.html
 - **Оригинальная статья (KCI):** https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002795323
@@ -660,7 +660,7 @@ README.md
 
 # Nghiên cứu về hiệu quả thông tin của tài sản tiền mã hóa — bảng giải thích
 
-Hướng đi của giá coin vài ngày trước có thể báo trước chuyển động của KOSPI hôm nay không? Bài báo của Ahn Sangsun (2021) «Nghiên cứu về hiệu quả thông tin của tài sản tiền mã hóa – Tập trung vào hiệu quả thông tin như một chỉ báo dẫn dắt trên thị trường chứng khoán» (*Journal of the Future of Society*, tập 12, số 4, trang 51–73) được làm thành một trang giải thích tương tác, do bốn nhân vật Tiến sĩ · Haru (Trợ lý) · Nhà nghiên cứu Ruồi giấm · Money-Robo dẫn dắt. Bằng cách đặt sổ cạnh nhau (tương quan cùng ngày), dịch sổ (tương quan trễ), chia sổ (trước và sau COVID-19) và đóng gộp sổ (chỉ số trộn K1), bạn có thể tự mình đi theo bốn câu hỏi nghiên cứu của bài báo.
+Hướng đi của giá coin vài ngày trước có thể báo trước chuyển động của KOSPI hôm nay không? Bài báo của Ahn Sangsun (2021) «Nghiên cứu về hiệu quả thông tin của tài sản tiền mã hóa – Tập trung vào hiệu quả thông tin như một chỉ báo dẫn dắt trên thị trường chứng khoán» (*Journal of the Future of Society*, tập 12, số 4, trang 51–73) được làm thành một trang giải thích tương tác, do bốn nhân vật Tiến sĩ · Haru (Trợ lý) · Nhà nghiên cứu Ruồi giấm · AbaBot dẫn dắt. Bằng cách đặt sổ cạnh nhau (tương quan cùng ngày), dịch sổ (tương quan trễ), chia sổ (trước và sau COVID-19) và đóng gộp sổ (chỉ số trộn K1), bạn có thể tự mình đi theo bốn câu hỏi nghiên cứu của bài báo.
 
 - **Xem ngay:** https://adminmrobo.github.io/my_article_01_bitcoin_price_analytics/crypto_info_efficiency.vi.html
 - **Bài báo gốc (KCI):** https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002795323
